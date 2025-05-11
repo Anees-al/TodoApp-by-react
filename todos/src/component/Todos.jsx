@@ -34,7 +34,7 @@ const removetodo = (id) => {
             
                <li key={id}>
                 <span className='text'>{text}</span>
-                <MdOutlineClose  onClick={()=>removetodo(id)} style={{cursor:'pointer',color:'white'}}/>
+                < MdOutlineClose  onClick={()=>removetodo(id)} style={{cursor:'pointer',color:'white'}}/>
                </li>
             )
             
