@@ -1,0 +1,13 @@
+body{
+  background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('./component/paymo-JXyY3jRV9oI-unsplash.jpg');
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  display:flex;
+  height: 100vh;
+}
+h1{
+  color:rgb(244, 97, 12);
+  margin-left: 40px;
+  font-size: 45px;
+}
